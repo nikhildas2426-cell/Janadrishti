@@ -1,0 +1,8 @@
+{
+  "name": "JanDrishti",
+  "description": "Your Area. Your Money. Your Right to Know. Public transparency platform for tracking constituency development works, public expenditure, government schemes, and representatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
